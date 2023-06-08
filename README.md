@@ -16,10 +16,10 @@ A Flutter app that demonstrates how to create a TikTok-like video feed. The app 
 
 ## Features
 
-[x] Browse a feed of videos
-[x] Play and pause videos on tap
-[] Like and comment on videos
-[] User profiles and video details
+- [x] Browse a feed of videos
+- [x] Play and pause videos on tap
+- [ ] Like and comment on videos
+- [ ] User profiles and video details
 
 ---
 
