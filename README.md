@@ -85,7 +85,7 @@ To view a copy of the license, visit [http://creativecommons.org/licenses/by-nc/
 
 ## Disclaimer
 
-The assets used in this app, including images and videos, are sourced from publicly available platforms and are not owned by [Your Name/Your Organization].
+The assets used in this app, including images and videos, are sourced from publicly available platforms and are not owned by the authors.
 
 By using this app, you acknowledge and agree that:
 
