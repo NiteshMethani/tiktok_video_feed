@@ -16,8 +16,9 @@ A Flutter app that demonstrates how to create a TikTok-like video feed. The app 
 
 ## Screenshots
 
-![Screenshot 1](assets/screenshot1.png)
-![Screenshot 2](assets/screenshot2.png)
+![](assets/Screenshot1.png)
+![](assets/Screenshot2.png)
+![](assets/Screenshot3.png)
 
 ---
 
